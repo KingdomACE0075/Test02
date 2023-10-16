@@ -6,13 +6,13 @@
                 <h1><center><font color="#FFFFFF">พรชัยอพาร์ตเมนต์</font></center></h1>
                 <?php include "Date.php"; ?>
             </td>
-            <td width="43" rowspan="2">&nbsp;</td>
+            <td width="44" rowspan="2">&nbsp;</td>
         </tr>
         <tr>
-            <td width="1007" bgcolor="#FFFFFF">
+            <td width="1000" bgcolor="#FFFFFF">
                 <img src="images/map.gif">
             </td>
-            <td width="190" bgcolor="#FFFF66"><ul>
+            <td width="190" bgcolor="#FFFFFF"><ul>
 				<li><a href="home.php">หน้าแรก</li>
 				<li><a href="room.php">ห้องพัก&ราคา</li>
 				<li><a herf="guest.php">สมุดเยี่ยม</li>
